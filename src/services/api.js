@@ -1,4 +1,5 @@
 import axios from "axios";
+import Store from "../components/Store";
 
 
 const BASE_URL  = "https://fakestoreapi.com";
